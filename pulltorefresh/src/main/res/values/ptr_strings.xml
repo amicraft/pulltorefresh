@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="pull_to_refresh_pull_label">下拉刷新</string>
+    <string name="pull_to_refresh_release_label">释放刷新</string>
+    <string name="pull_to_refresh_refreshing_label">刷新中…</string>
+    <string name="pull_to_refresh_from_bottom_pull_label">上拉加载</string>
+    <string name="pull_to_refresh_from_bottom_release_label">释放加载</string>
+    <string name="pull_to_refresh_from_bottom_refreshing_label">加载中…</string>
+
+    <string name="pull_to_refresh_pull_down_to_refresh_txt">下拉刷新</string>
+    <string name="pull_to_refresh_release_to_refresh_txt">释放刷新</string>
+    <string name="pull_to_refresh_refreshing_txt">刷新中…</string>
+    <string name="pull_to_refresh_refresh_at_txt">刷新于：</string>
+
+    <string name="pull_to_refresh_pull_up_to_loadmore_txt">上拉加载</string>
+    <string name="pull_to_refresh_release_to_loadmore_txt">释放加载</string>
+    <string name="pull_to_refresh_loading_more_txt">加载中…</string>
+    <string name="pull_to_refresh_load_more_txt">加载更多</string>
+
+</resources>
